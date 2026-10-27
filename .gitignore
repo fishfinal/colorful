@@ -22,3 +22,6 @@ build/compile/*
 build/archive/*
 !build/compile/.keep
 !build/archive/.keep
+
+# Temporary files.
+temporary
