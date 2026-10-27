@@ -1,6 +1,6 @@
 module github.com/fishfinal/colorful
 
-go 1.26.6
+go 1.21
 
 require (
 	github.com/logrusorgru/aurora v2.0.3+incompatible

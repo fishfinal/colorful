@@ -1,5 +1,14 @@
 # colorful
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/Go-%3E%3D1.21-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go Version" />
+<img src="https://img.shields.io/badge/license-Apache--2.0-blue?style=for-the-badge" alt="License" />
+<img src="https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge&logo=githubactions&logoColor=white" alt="Build Status" />
+<img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge" alt="PRs Welcome" />
+
+</div>
+
 `colorful` is a simple Go package that provides colored terminal output, built as a wrapper around the [`aurora`](https://github.com/logrusorgru/aurora) package. It allows global control over whether color output is enabled.
 
 ## Features
@@ -138,3 +147,4 @@ Through the `Colorful` variable, the following commonly used methods are availab
 ## License
 
 See the repository for license information.
+
